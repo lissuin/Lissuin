@@ -22,15 +22,21 @@ I'm an aspiring IT specialist from Türkiye, currently building my skills in pro
 
 ### 🖥️ Portfolio Website
 
-A simple personal portfolio website built with HTML and CSS.
+*Currently in development.*
+
+A personal portfolio website built with HTML and CSS.
 
 ### 🐍 Python Utilities
 
-A collection of small Python tools and practical exercises created while improving my programming skills.
+*Currently in development.*
+
+A collection of small Python projects and practical tools.
 
 ### 🐧 Linux & IT Notes
 
-My personal learning notes covering Linux, networking and basic IT concepts.
+*Currently in development.*
+
+Personal notes and exercises covering Linux, networking and fundamental IT concepts.
 
 ## Goals
 
