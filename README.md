@@ -6,7 +6,7 @@ I'm an aspiring IT specialist from Türkiye, currently building my skills in pro
 
 * 💻 Currently learning Python, HTML/CSS and Linux
 * 🌱 Building small practical projects to strengthen my programming skills
-* 🇩🇪 Preparing for an IT-Ausbildung in Germany
+* 🇩🇪  Preparing for an IT-Ausbildung in Germany
 * 🗣️ English — B2 | German — currently learning
 * 📚 Interested in software, systems and practical IT solutions
 
