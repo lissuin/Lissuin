@@ -1,62 +1,41 @@
 # Hi, I'm Lissuin 👋
 
-I'm an aspiring IT specialist from Türkiye, currently building my skills in programming, web technologies and Linux while preparing for an IT-Ausbildung in Germany.
+Aspiring IT Specialist from Türkiye, preparing for an IT-Ausbildung in Germany.
 
-## About Me
+I’m currently building practical skills in Python, web technologies, Linux, and Git/GitHub through hands-on projects.
 
-* 💻 Currently learning Python, HTML/CSS and Linux
-* 🌱 Building small practical projects to strengthen my programming skills
-* 🇩🇪  Preparing for an IT-Ausbildung in Germany
-* 🗣️ English — B2 | German — currently learning
-* 📚 Interested in software, systems and practical IT solutions
+## Technical Focus
 
-## Current Focus
-
-* Python programming
-* Web development fundamentals
+* Python
+* HTML, CSS & JavaScript
 * Linux & computer systems
 * Git & GitHub
-* Building practical projects
+* Networking fundamentals
 
 ## Projects
 
 ### 🖥️ Portfolio Website
 
-*Currently in development.*
+A responsive personal portfolio website built with HTML, CSS and JavaScript.
 
-A personal portfolio website built with HTML and CSS.
+[View repository →](https://github.com/lissuin/portfolio-website)
 
-### 🐍 Python Utilities
+## Currently Learning
 
-*Currently in development.*
+* Python programming
+* Linux and computer systems
+* Networking fundamentals
+* German
 
-A collection of small Python projects and practical tools.
+## Languages
 
-### 🐧 Linux & IT Notes
+* English — B2
+* German — currently learning
 
-*Currently in development.*
+## About This GitHub
 
-Personal notes and exercises covering Linux, networking and fundamental IT concepts.
-
-## Goals
-
-My current goal is to strengthen my technical foundation, build practical projects and start an IT-Ausbildung in Germany.
+I use this profile to document my learning process and build practical projects that strengthen my technical foundation for an IT career.
 
 ---
 
-*Always learning, always building.*
-
-<!--
-**lissuin/Lissuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning, building and improving.
